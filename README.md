@@ -42,14 +42,6 @@ I am a **Software Developer & Creative Engineer** specializing in high-performan
 
 ---
 
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukund14K&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund14K&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="left">
 <a href="https://in.linkedin.com/in/mukund-mahambrey-35b217352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
