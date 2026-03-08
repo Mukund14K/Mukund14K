@@ -2,7 +2,7 @@
   <img src="./header.png" alt="Mukund Mahambrey Header" width="100%">
 </p>
 
-# ⚡ Hello, I'm Mukund Mahambrey 👋
+#  Hello, I'm Mukund Mahambrey 
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -34,7 +34,7 @@ I am a **Software Developer & Creative Engineer** specializing in high-performan
 
 ### 📂 Featured Contributions
 
-> [!TIP]
+> [!IMPORTANT]
 > **[Demon Slayer Combat Engine]** > *Architecting a high-intensity combat system focused on optimized state-machines and fluid animation logic.* > `C++` `Game Mechanics` `Optimization`
 
 > [!IMPORTANT]
