@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mukund.png" alt="Custom GitHub Header for Mukund14K" width="100%">
+  <img src="mukundfinal.png" alt="Custom GitHub Header for Mukund14K" width="100%">
 </p>
 
 # ⚡ Hello, I'm Mukund Mahambrey 👋
