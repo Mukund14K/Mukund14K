@@ -1,4 +1,8 @@
-# ⚡ Hello, I'm Mukund Mahambrey
+<p align="center">
+  <img src="./header.png" alt="Mukund Mahambrey Header" width="100%">
+</p>
+
+# ⚡ Hello, I'm Mukund Mahambrey 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -10,7 +14,7 @@
 ---
 
 ### 🚀 The Engineering Brief
-I am a **Software Developer & Creative Engineer** focused on building high-performance systems and interactive experiences. I specialize in bridging the gap between efficient algorithmic foundations and engaging user-facing software.
+I am a **Software Developer & Creative Engineer** specializing in high-performance systems and interactive experiences. I focus on bridging the gap between efficient algorithmic foundations and engaging user-facing software.
 
 * **🧩 Algorithmic Depth:** Solving complex challenges through optimized **DSA** and performance-first C++ code.
 * **🎮 Game Engineering:** Developing immersive gameplay (e.g., my *Demon Slayer* project) with a focus on fluid mechanics and engine-level logic.
@@ -36,18 +40,21 @@ I am a **Software Developer & Creative Engineer** focused on building high-perfo
 > [!IMPORTANT]
 > **[Rentify - Hackathon Project]** > *A full-stack rental solution engineered for speed and scalability under tight deadlines.* > `Product Engineering` `Rapid Prototyping`
 
+> [!NOTE]
+> **[Comet Quest]** > *Lead developer for an event-driven project focused on high-engagement user experiences.* > `Leadership` `Development`
+
 ---
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahambreymukund&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahambreymukund&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
 <p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://in.linkedin.com/in/mukund-mahambrey-35b217352" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="mahambreymuknd@gmail.com" /></a>
+<a href="https://in.linkedin.com/in/mukund-mahambrey-35b217352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mahambreymukund@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
