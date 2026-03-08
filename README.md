@@ -1,7 +1,8 @@
 <p align="center">
-<img src="https://files.oaiusercontent.com/file-L7M6K4H2O1N9P3Q7R5S8T0V6?se=2026-03-08T09%3A00%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20private%2C%20immutable&rscd=attachment%3B%20filename%3Dgithub_header_mukund14k_v2.png&sig=xyz" alt="Custom GitHub Header for Mukund14K" width="100%">
+  <img src="https://files.oaiusercontent.com/file-L7M6K4H2O1N9P3Q7R5S8T0V6?se=2026-03-08T09%3A00%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20private%2C%20immutable&rscd=attachment%3B%20filename%3Dgithub_header_mukund14k_v2.png&sig=xyz" alt="Custom GitHub Header for Mukund14K" width="100%">
 </p>
-#  Hello, I'm Mukund Mahambrey 
+
+# ⚡ Hello, I'm Mukund Mahambrey 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
