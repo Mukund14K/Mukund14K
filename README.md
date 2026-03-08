@@ -2,7 +2,7 @@
   <img src="mukundfinal.png" alt="Custom GitHub Header for Mukund14K" width="100%">
 </p>
 
-# ⚡ Hello, I'm Mukund Mahambrey 👋(test)
+# ⚡ Hello, I'm Mukund Mahambrey 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
