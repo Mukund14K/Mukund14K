@@ -47,8 +47,8 @@ I am a **Software Developer & Creative Engineer** specializing in high-performan
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahambreymukund&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahambreymukund&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukund14K&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund14Kd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
