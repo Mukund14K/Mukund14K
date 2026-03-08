@@ -40,15 +40,12 @@ I am a **Software Developer & Creative Engineer** specializing in high-performan
 > [!IMPORTANT]
 > **[Rentify - Hackathon Project]** > *A full-stack rental solution engineered for speed and scalability under tight deadlines.* > `Product Engineering` `Rapid Prototyping`
 
-> [!NOTE]
-> **[Comet Quest]** > *Lead developer for an event-driven project focused on high-engagement user experiences.* > `Leadership` `Development`
-
 ---
 
 ### 📊 Performance Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mukund14K&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund14Kd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund14K&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
